@@ -1,3 +1,4 @@
 .androidide
+.androidide/editor
 .git
 ./build
